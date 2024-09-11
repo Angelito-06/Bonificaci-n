@@ -1,0 +1,89 @@
+h2 {
+    text-align: center;
+    color: darkgray;
+}
+
+.divS {
+    margin: auto;
+    text-align: center;
+    width: 800px;
+}
+
+.flexContenedor {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.divP {
+    text-align: center;
+}
+
+.divR {
+    width: 60%;
+    color: darkgray;
+}
+
+a {
+    color: orangered;
+}
+
+button {
+    background-color: white;
+}
+
+.flexContenedorDiv {
+    display: flex;
+}
+
+.centrar {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.divM {
+    
+    justify-content: space-between;
+}
+
+.divX {
+    width: 100%;
+    margin-right: 10px;
+}
+
+img {
+    width: 400px;
+}
+
+.divT, textarea {
+    height: 200px;
+    width: 800px;
+    margin: auto;
+}
+
+.divButton {
+    border: 1px solid;
+    text-align: right;
+    margin-top: -5px; 
+    width: 804px;
+}
+
+.divL{
+    margin-top: 20px;
+    margin-right: 20%;
+    display: flex;
+}
+
+.pFinal {
+    width: 50%;
+    text-align: center;
+    margin-left: 450px;
+}
+
+
+
